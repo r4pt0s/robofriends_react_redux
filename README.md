@@ -29,6 +29,6 @@ npm start
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-### Big thanks to
+### Big thanks to zero => mastery
 [Github Repository of Zero to Mastery](https://github.com/zero-to-mastery)
 
