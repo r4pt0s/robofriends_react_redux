@@ -15,13 +15,14 @@ npm start
 
 ### Redux Library
 
-* Redux V4.0.1
-* Redux-logger: V3.0.6
-* Redux-thunk: V2.3.0
+* [Redux](https://github.com/reduxjs/redux): V4.0.1
+* [Redux-logger](https://github.com/LogRocket/redux-logger): V3.0.6
+    * Open the developer console to see the Actions Log enabled by Redux Logger
+* [Redux-thunk Middleware to return functions instead of actions](https://github.com/reduxjs/redux-thunk): V2.3.0
 
 ### UI Styling
 
-* Tachyons: 4.9.1
+* [Tachyons](https://github.com/tachyons-css/tachyons): 4.9.1
 
 
 #### Additional informations and Credits

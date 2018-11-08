@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://r4pt0s.github.io/robotfriends_react_redux",
+  "homepage": "https://r4pt0s.github.io/robofriends_react_redux",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.3.1",
